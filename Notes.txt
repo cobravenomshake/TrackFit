@@ -1,0 +1,6 @@
+1. Don't update outdated packages on Flutter
+2. If Java version is undetected, copy contents of jbr folder and paste it on the jre file
+3. Enable developer settings on windows 
+4. Enable developer mode on Android
+5. Under USB Settings, enable Android Auto under 'USB is used for'
+6. Under USB Settings, enable 'This Device' under 'USB is controlled by'
