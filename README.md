@@ -1,4 +1,3 @@
-<a name="readme-top"></a>
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -8,9 +7,8 @@
 
 <br />
 <div align="center">
-  <a href="#">
     <img src="trackfit_logo.png" alt="TrackFitLogo" width="80" height="80">
-  </a>
+
 
   <h3 align="center">TrackFit: A Fitness Tracker for a Healthy and Balanced Lifestyle</h3>
 
