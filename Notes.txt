@@ -4,3 +4,4 @@
 4. Enable developer mode on Android
 5. Under USB Settings, enable Android Auto under 'USB is used for'
 6. Under USB Settings, enable 'This Device' under 'USB is controlled by'
+7. Color: #98BFFD
