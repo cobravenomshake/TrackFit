@@ -11,7 +11,7 @@ class LoginPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('TrackFit Login'),
+        title: Center(child: Text('Welcome to TrackFit!')),
         backgroundColor: Color(0xFF98BFFD),
       ),
       body: Padding(
@@ -186,7 +186,7 @@ class SignUpPage extends StatelessWidget {
                     Navigator.push(
                       context,
                       MaterialPageRoute(builder: (context) => LoginPage()),
-                    ); 
+                    );
                   },
                   child: Text(
                     'Log In',
