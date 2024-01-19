@@ -8,9 +8,6 @@
 
 <br />
 <div align="center">
-    <img src="trackfit_logo.png" alt="TrackFitLogo" width="400" height="80">
-
-
   <h3 align="center">TrackFit: A Fitness Tracker for a Healthy and Balanced Lifestyle</h3>
 
   <p align="center">
